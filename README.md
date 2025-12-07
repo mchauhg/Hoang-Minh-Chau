@@ -18,4 +18,56 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mchauhg&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📂 Danh Sách Dự Án Đã Làm
+
+### 1. Dự án: GreenLink - Minh bạch thực phẩm sạch
+* **Môn học:** Đổi mới sáng tạo
+* **Mô tả:** Xây dựng giải pháp minh bạch hóa thông tin thực phẩm sạch, giúp người tiêu dùng truy xuất nguồn gốc dễ dàng.
+* **Tài liệu dự án:**
+    * [Thiết kế Canva](https://www.canva.com/design/DAG1APnu8vk/N7A3frTzLcqDAwmBXSQJuA/edit?ui=eyJBIjp7fX0)
+    * [Prototype (Figma)](https://www.figma.com/proto/GiWCwL4R2BVLTgCYfFiQOr/GreenLink?node-id=1-98&t=BskSWkVpauXX3oHQ-1&starting-point-node-id=1%3A98)
+
+---
+
+### 2. Chiến lược tiếp cận người tiêu dùng trẻ cho sản phẩm cân TANITA BC-402
+* **Môn học:** Thực hành dự án kinh doanh (KD0412)
+* **Vai trò:** Nhóm 10 - Xây dựng kế hoạch kinh doanh & Marketing
+* **Tổng quan:**
+    * Dự án hợp tác cùng **Maxcare Home** nhằm phân phối dòng cân phân tích chỉ số cơ thể Tanita BC-402.
+    * **Vấn đề giải quyết:** Thay đổi nhận thức của người tiêu dùng trẻ từ việc coi cân chỉ là thiết bị đo cân nặng sang một "trợ lý sức khỏe thông minh" giúp phân tích chỉ số cơ thể toàn diện (BMI, mỡ cơ thể, lượng cơ...).
+    * **Giải pháp:** Đề xuất chiến lược Marketing 3 giai đoạn (Awareness - Engagement - Amplify) với thông điệp "Hiểu rõ bên trong – Sống trọn bên ngoài".
+* **Kết quả:** Xây dựng hoàn chỉnh kế hoạch tài chính, nhân sự và truyền thông tích hợp nhằm gia tăng nhận diện thương hiệu Tanita tại Việt Nam.
+
+---
+
+### 3. Rà soát và lựa chọn thị trường xuất khẩu cho Mật ong thiên nhiên HighlandBee
+* **Môn học:** Marketing quốc tế
+* **Mô tả:** Phân tích, đánh giá và lựa chọn thị trường mục tiêu tiềm năng để xuất khẩu sản phẩm mật ong HighlandBee, đi kèm chiến lược thâm nhập thị trường phù hợp.
+* **Tài liệu dự án:** [Xem chi tiết trên Canva](https://www.canva.com/design/DAGuY3pQkWM/S2f6OBJ-I5w05pPT17jFjg/edit)
+
+---
+
+### 4. Đề xuất dự án đầu tư của tập đoàn Siemens (Đức) vào năng lượng tái tạo
+* **Môn học:** Đầu tư quốc tế
+* **Khu vực:** Vùng ven biển tỉnh Lâm Đồng (Bình Thuận cũ)
+* **Mô tả:** Lập hồ sơ đề xuất dự án đầu tư FDI từ tập đoàn Siemens vào lĩnh vực năng lượng sạch/tái tạo, phân tích tính khả thi và lợi ích kinh tế - xã hội cho địa phương.
+* **Tài liệu dự án:** [Xem chi tiết trên Canva](https://www.canva.com/design/DAGzIsIJtgo/n1hk8u-wp0H-4HOlTtfhAw/edit)
+
+---
+
+### 5. Xây dựng cửa hàng E-commerce & Chiến lược kinh doanh trực tuyến
+* **Môn học:** Thương mại điện tử
+* **Mô tả:** Thiết lập gian hàng trực tuyến hoàn chỉnh và triển khai các chiến lược Digital Marketing nhằm tối ưu hóa doanh thu và trải nghiệm khách hàng.
+* **Tài liệu dự án:** [Xem chi tiết trên Canva](https://www.canva.com/design/DAGpOQhFrWk/odzkJQUbHXxBC3yO0UEj8A/edit)
+
+---
+
+### 6. Thiết kế ấn phẩm truyền thông - Trường THPT Mỹ Tho
+* **Mô tả:** Phụ trách thiết kế các ấn phẩm khen thưởng, poster, banner truyền thông cho các sự kiện và hoạt động của trường trên mạng xã hội.
+* **Các bài đăng tiêu biểu:**
+    * [Bài viết 1](https://www.facebook.com/THPTMyTho/posts/pfbid02TbixF2umbbBivPQFtnmHfadpcRcxAPVCoUi2zuXtC5LLqoR6jPjSMCYAacSpvmgpl) | [Bài viết 2](https://www.facebook.com/THPTMyTho/posts/pfbid0dHB69QYPchQ1vtVWeRoETbHSAd8tE7NQahWgegtVZsFGzMB5dRNXAZG2PvtJp4TZl) | [Bài viết 3](https://www.facebook.com/THPTMyTho/posts/pfbid0MASmHY8Fs2zD2hekSndECTZqA9R1ZBcyEE16pecVmFaoSuJVe3UbTapA9ZX9eh2Fl)
+    * [Bài viết 4](https://www.facebook.com/THPTMyTho/posts/pfbid0dy33S9P2dahg9XioffksKKM4CY8tEo9YwbdFjTySXz9SLJS6U6iHhuxBVKha82t4l) | [Bài viết 5](https://www.facebook.com/THPTMyTho/posts/pfbid02zGeYBXRmeZKt2k9oDhms23H6GvPxWsjnY6MuLywhS6Nmpc6kGRqS57SAjwQ1uT6tl)
+    * **Chuỗi bài Đoàn trường:** [Post 1](https://www.facebook.com/doantruong.mytho/posts/pfbid02VqaKqEvuGX12AAMi6Uq8EWJhAgnvRAgSgLqAVoWpSHdWMqKT1aDPYHV5V58BDkxvl) | [Post 2](https://www.facebook.com/doantruong.mytho/posts/pfbid02sZXqFRJmsERpEAoAttCbbngWgLTzpFk3Lm8CPgFCGv1oYTPjJSMu3zai6o8sDAHNl) | [Post 3](https://www.facebook.com/doantruong.mytho/posts/pfbid02WVMxHN4vVAPfhmeHkNKbbJe4SUHk2urTPVtpBWnvRtuJKxW8eMjjqsCaq8mFBXd8l)
+
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
