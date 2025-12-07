@@ -6,20 +6,7 @@
   
   <h3>🚀 Passionate about Marketing, Innovation & E-commerce</h3>
 
-  <p>
-    <a href="mailto:[EMAIL_CUA_BAN]">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="[LINK_LINKEDIN_CUA_BAN]">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="[LINK_FACEBOOK_CUA_BAN]">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
-  </p>
-  
-  ---
-</div>
+ 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mchauhg12/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/taken.bymch/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hminhchau1208@gmail.com) 
 
