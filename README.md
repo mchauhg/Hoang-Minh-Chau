@@ -10,40 +10,41 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%">
       <h3>🏛️ Academic Background</h3>
-      <p>
-        <b>🏫 Foreign Trade University (FTU)</b><br>
-        <i>Senior Student</i>
-      </p>
-      <p>
-        <b>📚 Major:</b> International Economics & Business
-      </p>
+      <p><b>🏫 Foreign Trade University (FTU)</b></p>
+      <p><i>Senior Student</i></p>
+      <p><b>📚 Major:</b> International Economics & Business</p>
       <br>
-      <h3>🏆 Extracurricular Activities</h3>
-      <a href="#">
-        <img src="https://img.shields.io/badge/TOP_100-Bản_Lĩnh_Marketer_2025-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Top 100 Ban Linh Marketer">
-      </a>
-      <br><br>
-      <p><i>Active member in academic and creative projects.</i></p>
+      <h3>🏆 Activities</h3>
+      <img src="https://img.shields.io/badge/TOP_100-Bản_Lĩnh_Marketer_2025-FFD700?style=for-the-badge&logo=star&logoColor=black">
     </td>
-
-    <td width="50%" valign="top">
-      <h3>🌏 Languages Proficiency</h3>
-      
-      <b>🇻🇳 Vietnamese</b> (Mother Tongue)<br>
-      <img src="https://progress-bar.dev/100/?scale=100&title=Native&width=250&color=2E86C1&suffix=%" alt="Vietnamese"><br>
-      <br>
-
-      <b>🇬🇧 English</b> (IELTS 7.0)<br>
-      <img src="https://progress-bar.dev/75/?scale=100&title=Advanced&width=250&color=28B463&suffix=%" alt="English"><br>
-      <br>
-
-      <b>🇨🇳 Chinese</b> (HSK 4)<br>
-      <img src="https://progress-bar.dev/45/?scale=100&title=Intermediate&width=250&color=E67E22&suffix=%" alt="Chinese">
+    <td width="50%">
+      <h3>🌏 Languages</h3>
+      <p><b>🇻🇳 Vietnamese (Mother Tongue)</b></p>
+      <img src="https://progress-bar.dev/100/?scale=100&title=Native&width=200&color=2E86C1&suffix=%">
+      <br><br>
+      <p><b>🇬🇧 English (IELTS 7.0)</b></p>
+      <img src="https://progress-bar.dev/75/?scale=100&title=Advanced&width=200&color=28B463&suffix=%">
+      <br><br>
+      <p><b>🇨🇳 Chinese (HSK 4)</b></p>
+      <img src="https://progress-bar.dev/45/?scale=100&title=Intermediate&width=200&color=E67E22&suffix=%">
     </td>
   </tr>
 </table>
+
+---
+
+### 🌏 Languages Proficiency
+
+**🇻🇳 Vietnamese** (Mother Tongue)  
+![Vietnamese](https://progress-bar.dev/100/?scale=100&title=Native&width=300&color=2E86C1&suffix=%)
+
+**🇬🇧 English** (IELTS 7.0)  
+![English](https://progress-bar.dev/75/?scale=100&title=Advanced&width=300&color=28B463&suffix=%)
+
+**🇨🇳 Chinese** (HSK 4)  
+![Chinese](https://progress-bar.dev/45/?scale=100&title=Intermediate&width=300&color=E67E22&suffix=%)
  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mchauhg12/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/taken.bymch/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hminhchau1208@gmail.com)
